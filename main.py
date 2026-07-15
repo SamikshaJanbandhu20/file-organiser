@@ -29,7 +29,7 @@ def build_agent():
 
     
 if __name__ == "__main__":
-    WATCH_DIR = "C:/Users/User/Downloads"
+    WATCH_DIR = r"C:\Users\KDKCE-19\Downloads"
     
     
     agent = build_agent()
